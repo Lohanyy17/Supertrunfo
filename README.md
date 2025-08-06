@@ -14,3 +14,11 @@
 ![print jogo](/static/assets/printjogo.jpeg)
 ![print jogo dois](/static/assets/jogodois.jpeg)
 
+## Link de acesso
+
+> [Protótipo](https://www.canva.com/design/DAGhuDA6MMU/eUqmcjDvvfys1TgOv3Yc3A/edit)
+> [Site Renderizado](https://supertrunfo-wxip.onrender.com/)
+
+## Participação
+
+> [Mirele Victória](https://github.com/Mvictoria218)
