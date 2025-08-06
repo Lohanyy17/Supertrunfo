@@ -9,5 +9,8 @@
 ## Desenvolvimento
 
 ![print inicio](/static/assets/printinicio.jpeg)
-
+![print como jogar](/static/assets/comojogarprint.jpeg)
+![print cartas](/static/assets/printcartas.jpeg)
+![print jogo](/static/assets/printjogo.jpeg)
+![print jogo dois](/static/assets/jogodois.jpeg)
 
