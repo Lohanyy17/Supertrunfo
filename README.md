@@ -1,4 +1,4 @@
-# A Origem dos Guardiões - Super trunfo  ๋࣭ ⭑
+# A Origem dos Guardiões - Super trunfo   ๋࣭ ⭑
 
 <i> Este é um projeto inspirado no jogo de cartas Super Trunfo. Foi desenvolvido utilizando HTML, CSS JavaScript e Python, utilizando a temática do filme "A origem dos Guardiões" para uma dinâmica divertida e imersiva. <i> 
 
