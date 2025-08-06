@@ -14,6 +14,12 @@
 ![print jogo](/static/assets/printjogo.jpeg)
 ![print jogo dois](/static/assets/jogodois.jpeg)
 
+## Tecnologias Utilizadas ༄
+
+<li>HTML5: Estrutura do jogo
+<li>CSS3: Estilo do jogo
+<li>JavaScript: Lógica e interatividade
+
 ## Link de acesso ★
 
 > [Protótipo](https://www.canva.com/design/DAGhuDA6MMU/eUqmcjDvvfys1TgOv3Yc3A/edit)  <br>
