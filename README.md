@@ -16,7 +16,7 @@
 
 ## Link de acesso
 
-> [Protótipo](https://www.canva.com/design/DAGhuDA6MMU/eUqmcjDvvfys1TgOv3Yc3A/edit)
+> [Protótipo](https://www.canva.com/design/DAGhuDA6MMU/eUqmcjDvvfys1TgOv3Yc3A/edit)  <br>
 > [Site Renderizado](https://supertrunfo-wxip.onrender.com/)
 
 ## Participação
